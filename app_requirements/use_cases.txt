@@ -1,0 +1,19 @@
+- Cadastrar gestor
+
+- Fazer login
+
+- Avaliar produtivida
+
+- Avaliar engajamento
+
+- Inserir colaborador
+
+- Listar colaboradores
+
+- Atualizar colaborador
+
+- Deletar colaborador
+
+- Listar setores
+
+- Listar gestores
