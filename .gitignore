@@ -2,5 +2,7 @@
 .pytest_cache
 venv
 .env
+.pre-commit-config.yaml
+.pylintrc
 
 .coverage
